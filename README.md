@@ -9,8 +9,9 @@ The quotes are in YAML format and translated in different languages.
 
 Projects that use Quoty quotes
 ------------------------------
-    * Web, quoty.mental.cat: https://quoty.mental.cat
-    * [Telegram bot](https://mental.cat/2017/01/02/telegram-quoty-bot/): get periodic quotes on your phone!
+
+  * Web, quoty.mental.cat: https://quoty.mental.cat
+  * [Telegram bot](https://mental.cat/2017/01/02/telegram-quoty-bot/): get periodic quotes on your phone!
     
     
 Contributing
