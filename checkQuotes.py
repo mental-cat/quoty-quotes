@@ -20,6 +20,7 @@ for f in files:
     for doc in docs:
         if doc is None:
             continue
+        print doc
         
         for tag in doc['tags']:
             if not tag in validTags:
